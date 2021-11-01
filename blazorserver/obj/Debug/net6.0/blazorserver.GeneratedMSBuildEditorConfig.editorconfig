@@ -1,0 +1,60 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = blazorserver
+build_property.RootNamespace = blazorserver
+build_property.ProjectDir = /home/alex/Code/BlazorShowcase/blazorserver/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/alex/Code/BlazorShowcase/blazorserver
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/alex/Documents/Code/BlazorShowcase/blazorserver/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/alex/Documents/Code/BlazorShowcase/blazorserver/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = Q291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/alex/Documents/Code/BlazorShowcase/blazorserver/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = RmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/alex/Documents/Code/BlazorShowcase/blazorserver/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = SW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/alex/Documents/Code/BlazorShowcase/blazorserver/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U3VydmV5UHJvbXB0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/alex/Documents/Code/BlazorShowcase/blazorserver/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/alex/Documents/Code/BlazorShowcase/blazorserver/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-kvwjdal027
+
+[/home/alex/Documents/Code/BlazorShowcase/blazorserver/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-xbs4m0kiuo
+
+[/home/alex/Documents/Code/BlazorShowcase/blazorserver/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/alex/Documents/Code/BlazorShowcase/blazorserver/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/alex/Documents/Code/BlazorShowcase/blazorserver/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
